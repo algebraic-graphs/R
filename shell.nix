@@ -14,6 +14,8 @@ let
       patchwork
       rmarkdown
       stringi
+      covr
+      DT
       microbenchmark
     ];
   };

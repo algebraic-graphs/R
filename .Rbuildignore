@@ -6,3 +6,8 @@
 ^ralget\.Rcheck$
 ^ralget.*\.tar\.gz$
 ^ralget.*\.tgz$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^codecov\.yml$
+^\.github$
